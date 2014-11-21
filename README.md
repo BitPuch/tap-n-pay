@@ -1,7 +1,7 @@
 BitPuch tap-n-pay
 =========
 
-Bitcoin  point-of-sale  NFC terminal.  
+Bitcoin contactless point-of-sale  NFC terminal.  
 
 Apple Pay Killer ;)
 
